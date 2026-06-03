@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 # 💫 About Me<br><br>👋 Hi, I'm Nur Amni Najiha binti Hizam<br><br>🎓 Former Physical Science student at Kolej Matrikulasi Melaka<br><br>🏆 GPA 4.00 (Sem I & II) | GPA 3.83 (Sem III) | MUET Band 4<br><br>💻 Currently learning Programming and Software Development<br><br>🚀 Building personal coding projects and exploring Computer Science<br><br>✨ Interested in Technology, Software Development, Mathematics, and Problem Solving
 
 
